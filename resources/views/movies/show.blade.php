@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight truncate">
+        <h2 class="font-semibold text-xl text-black leading-tight truncate">
             {{ $movie['Title'] ?? 'Detalle' }}
         </h2>
     </x-slot>
