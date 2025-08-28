@@ -14,7 +14,7 @@ Esta es una aplicación web construida con Laravel 11 que permite a los usuarios
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/laravel-ucompensar-test.git](https://github.com/tu-usuario/laravel-ucompensar-test.git)
+    git clone [https://github.com/lajolari/laravel-ucompensar-test.git](https://github.com/lajolari/laravel-ucompensar-test.git)
     cd laravel-ucompensar-test
     ```
 
